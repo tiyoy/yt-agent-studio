@@ -1,4 +1,4 @@
-# 🎬 YouTube Agent Studio
+﻿# 🎬 YouTube Agent Studio
 
 **AI command center untuk kreator YouTube** — aplikasi web lokal (single file HTML) untuk menyusun prompt siap kirim ke ChatGPT atau Claude, mencakup naskah, paket publikasi, editing, komentar, Shorts, SEO, chapter, dan audit channel.
 
@@ -51,42 +51,42 @@ Aplikasi terdiri dari 1 halaman dengan 8 modul yang diakses lewat sidebar:
 ### 1. Script & Hook Generator (`/yt-script`)
 Mengubah ide menjadi naskah dengan hook kuat, alur jelas, dan CTA.
 
-![Script & Hook Generator](docs/screenshots/script.png)
+![Script & Hook Generator](docs/screenshots/script.png?v=2)
 
 ### 2. Upload Package Generator (`/yt-package`)
 Menyiapkan 10 opsi judul, 3 konsep thumbnail, dan angle publikasi.
 
-![Upload Package Generator](docs/screenshots/package.png)
+![Upload Package Generator](docs/screenshots/package.png?v=2)
 
 ### 3. Editing Assistant (`/yt-edit`)
 Analisis transkrip/SRT untuk menemukan jeda, filler, dan potensi pemotongan.
 
-![Editing Assistant](docs/screenshots/edit.png)
+![Editing Assistant](docs/screenshots/edit.png?v=2)
 
 ### 4. Comment Manager (`/yt-comment`)
 Klasifikasi komentar penonton dan susun balasan sesuai karakter channel.
 
-![Comment Manager](docs/screenshots/comment.png)
+![Comment Manager](docs/screenshots/comment.png?v=2)
 
 ### 5. Shorts Builder (`/yt-shorts`)
 Menemukan bagian terkuat dari video panjang untuk diubah menjadi konsep Shorts.
 
-![Shorts Builder](docs/screenshots/shorts.png)
+![Shorts Builder](docs/screenshots/shorts.png?v=2)
 
 ### 6. YouTube SEO Assistant (`/yt-seo`)
 Metadata yang relevan dan natural: keyword, tag, hashtag, deskripsi.
 
-![YouTube SEO Assistant](docs/screenshots/seo.png)
+![YouTube SEO Assistant](docs/screenshots/seo.png?v=2)
 
 ### 7. Video Chapters Generator (`/yt-chapters`)
 Chapter informatif berdasarkan timestamp dan perubahan topik.
 
-![Video Chapters Generator](docs/screenshots/chapters.png)
+![Video Chapters Generator](docs/screenshots/chapters.png?v=2)
 
 ### 8. Channel Audit (`/yt-audit`)
 Evaluasi channel, prioritas perbaikan, eksperimen 30 hari, dan metrik.
 
-![Channel Audit](docs/screenshots/audit.png)
+![Channel Audit](docs/screenshots/audit.png?v=2)
 
 ---
 
